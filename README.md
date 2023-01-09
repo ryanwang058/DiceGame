@@ -1,6 +1,6 @@
 # Dice Game
 
-### Game Rules (English)
+### Game Rules
 
 
 #### 1. Setting the Score
@@ -23,4 +23,4 @@
 > 1.  When rolling to 1 point, the dices'points are shown.
 > 2.  Added a "CONFIRM" button, Player now has to confirm the clear of current scores before the other Player takes turn to play.
 
-[Game Link]()
+[Game Link](https://ryanwang058.github.io/DiceGame/)
